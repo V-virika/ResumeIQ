@@ -1,5 +1,6 @@
 📄 ResumeIQ
 Data-Driven Resume Analyzer & Admin Dashboard
+
 📌 Overview
 
 ResumeIQ is a web-based application designed to simplify and enhance the process of resume analysis using a clean, interactive frontend. The platform allows users to upload resumes and provides administrators with a centralized dashboard to manage and analyze resume data efficiently.
